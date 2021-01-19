@@ -9,7 +9,7 @@ API_HASH = "ab1c23def45fg67890h123i45678j9kl"
 TOKEN = "1234567890:ABCdEFgHij1KlMNop_QrStuVWxyzuA-EmXI"
 
 # Your mongodb uri
-MONGO_DB_URI = ""
+MONGO_DB_URI = "mongo "mongodb+srv://cluster0.sqeyo.mongodb.net/<dbname>" --username Hero"
 
 # The IDs of the users which can stream, skip, pause and change volume
 SUDO_USERS = [
