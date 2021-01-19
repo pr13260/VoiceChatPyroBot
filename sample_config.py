@@ -13,9 +13,9 @@ MONGO_DB_URI = "mongo "mongodb+srv://cluster0.sqeyo.mongodb.net/vcpb" --username
 
 # The IDs of the users which can stream, skip, pause and change volume
 SUDO_USERS = [
-    383407735,
-    951435494,
-    1392620345
+    1154075796,
+    800024545,
+    1021509576
 ]
 
 # The ID of the group where your bot streams
